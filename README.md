@@ -1,1 +1,1 @@
-This is for vagrant project
+This is a README for vagrant.
